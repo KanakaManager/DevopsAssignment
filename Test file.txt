@@ -1,3 +1,3 @@
 This is a test file created for Devops Assignment 1.
+Changes done by both users will be fixed now by the devops user and the code is pushed.
 
-Changes done by devops user.
